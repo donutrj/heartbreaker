@@ -2,8 +2,8 @@
 setlocal
 
 REM Source and target directories
-set "source=C:\Users\Rolland\Documents\obsidian\Vertigris\Rulebook"
-set "target=C:\Users\Rolland\Documents\quartz\quartz\content"
+set "source=C:\Users\Rolland\Documents\obsidian\Heartbreaker"
+set "target=C:\Users\Rolland\Documents\quartz websites\Heartbreaker_quartz\quartz\content"
 
 REM Ensure target directory exists
 if not exist "%target%" (
