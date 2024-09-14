@@ -25,15 +25,15 @@ Wizards can use light armor and non-martial weapons. That said, most wizards wea
 + **Wizard Robes:** A wizard can elect to wear wizard robes instead of armor, granting the wizard an extra Mana Die.
 + **Wands & Staves:** Wands and Staves magically trap a spell within, allowing the wizard to cast a new spell using their Mana Dice.
 # Level Progression
-At level one, the wizard chooses an order and gains access to the first six spells on the list. At level two the wizard has access to the first eight. At level three they have access to the first ten. At level four they have twelve, and at five, they have access to the full list assuming there are more than twelve.
+When you first become a wizard, choose a wizarding order. This will determine which spells you will have access to as you level up. Consult the table below to see how the wizard levels up.
 
-| **Level** | Spell Slots | Mana Dice | Cast Bonus |
-| --------- | ----------- | --------- | ---------- |
-| **1**     | 2           | 2         | +0         |
-| **2**     | 3           | 3         | +0         |
-| **3**     | 3           | 4         | +2         |
-| **4**     | 4           | 6         | +2         |
-| **5**     | 4           | 8         | +3         |
+| **Level** | Spells   | Spell Slots | Mana Dice | Cast Bonus |
+| --------- | -------- | ----------- | --------- | ---------- |
+| **1**     | First 4  | 2           | 2         | +0         |
+| **2**     | First 6  | 3           | 3         | +0         |
+| **3**     | First 8  | 3           | 4         | +2         |
+| **4**     | First 10 | 4           | 6         | +2         |
+| **5**     | All 12   | 4           | 8         | +3         |
 # Spellcasting
 The major feature of wizards is their ability to take dusty tomes, read them, then alter reality at their whim. As wizards gain levels, they gain an increasing number of Spell Slots and Mana Dice (see table above).
 
@@ -43,7 +43,7 @@ Mana Dice are the fish food for these magical entities. Whenever a caster releas
 
 A wizard may cast the same spell from their hole multiple times in a day, assuming they have at least one die to commit to it.
 ## Mechanics
-To cast a spell, the wizard makes 
+To cast a spell, the wizard makes an intelligence test. 
 ## Concentration
 Some spells require concentration, which means it ends when the target moves out of sight, range, or when the wizard becomes distracted.
 ## Learning New Spells
