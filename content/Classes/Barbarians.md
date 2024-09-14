@@ -1,3 +1,11 @@
+---
+
+---
+---
+tags:
+- barbarian
+- class
+---
 Barbarians fuel themselves with an inner strength, taking great risks for maximum effect when it matters. They are a martial class that take a beating and dish it right back out
 # Core Stats
 **Hit Dice:** d12
