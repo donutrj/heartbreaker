@@ -1,2 +1,7 @@
-Learn how to build a character [[Player Characters|here]].
+This is a "landing page" which I certainly have put a lot of work into.
+
+Learn how to combat [[Combat|here]].  
+
 Learn about the core mechanics [[Rolling Dice|here]].
+
+Learn about player characters [[Player Characters|here]].

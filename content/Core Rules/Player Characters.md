@@ -5,7 +5,7 @@ The usual 6. Strength, Agility, Constitution, Intelliegence, Wisdom, Charisma
 ## Skills
 Skills can be used in conjunction with any attribute when making a non-combat, non-class test.
 
-Their values are determined by your class.
+Their values are determined by your [[Player Characters#Classes|class]].
 + Awareness
 + Communication
 + Coordination
