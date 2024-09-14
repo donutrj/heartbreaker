@@ -14,7 +14,7 @@ On your turn, you can move, as per your [[Combat#Movement|movement]], and take o
 + [[Combat#Sprinting|Sprinting]]: It can be wise to use your action to sprint further, moving an additional 15' in conjunction with movement
 # Attacking
 ## Melee Weapons
-When attacking with a melee weapon, you must be adjacent to your target. Both you and your oppoent roll an attack, usually a strength test, but this could be a dexterity test depending on the weapons used.
+When attacking with a melee weapon, you must be adjacent to your target. Both you and your oppoent roll an attack, usually a strength test, but this [[Equipment#Weapons#Qualities|could be a dexterity test]] depending on the weapons used.
 1. Both parties roll an attack using their weapon's attribute (STR or DEX)
 2. The winner rolls their weapon's damage die
 3. The loser rolls their armor to reduce the damage
@@ -32,7 +32,7 @@ If a player rolls a natural 1, it means their weapon has become [[Effects and Co
 
 If a damaged weapon rolls another critical failure it is permantly broken.
 ## Recovering Ammo
-Ammo is recoverable on a 5+ on 1d6. Roll for each.
+Ammo is recoverable with a 5+ on 1d6. Roll for each.
 # Combat Maneuvers
 Combat maneuvers are a loose category of all the other crap you can do in a fight. This includes restraining, shoving, disarming, throwing sand in the eyes of a wizard etc. By neccessity, the guidelines are loose.
 

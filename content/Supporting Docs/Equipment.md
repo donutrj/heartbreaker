@@ -1,7 +1,7 @@
 # Weapons
 The standard weapon is a melee two-handed thing that does 1d6 damage. Anyone can use a standard weapon.
 ## Qualities
-To represent different weapons, they can be modified with a variety of qualities.
+To represent different weapons, they can be modified with a variety of qualities. No weapon can do more than d12 damage, barring wizardry.
 + **Martial:** Increment damage die by 1
 + **Long:** Incrememnt damage die by 1, cannot be used indoors
 + **Short:** Reduce damage die by 1, useable in one hand & concealible. If Ranged, reduce range by half.
@@ -9,6 +9,7 @@ To represent different weapons, they can be modified with a variety of qualities
 + **Reach:** Treats hexes two away as adjacent, cannot attack or defend opponents next to you. Attack with disadvantage. Weapon must also be Long.
 + **Ranged:** The weapon can shoot up to 40' (60' if Martial). Do not add attribute bonus to damage rolls. Use Dexterity instead of Strength as attack modifier.
 + **Complex:** Increase damage die by 1. Weapon is substantially more expensive and rare.
++ **Cumbersome:** Increase damage die by 1. Attack with disadvantage.
 
 *Use common sense with these, obviously something cannot be both long and short. I'm sure there's other contridictions as well.*
 ## Sample Weapons
