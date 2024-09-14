@@ -1,4 +1,8 @@
-#class #cleric
+---
+tags:
+  - class
+  - cleric
+---
 Clerics are the will of their god. Humans who dedicate themselves to their god are gifted terrible powers but are required to uphold their vows.
 # Core Stats
 | **Level** | Awar | Comm | Coor | Know | Subt | Surv |

@@ -1,4 +1,8 @@
-#class #rogue
+---
+tags:
+  - class
+  - rogue
+---
 Rogues are the scoundrels operating in the dark. Their athelticism, boldness, and good fortune allow them to pull off feats others would call impossible. 
 # Core Stats
 | **Level** | Awar | Comm | Coor | Know | Subt | Surv |

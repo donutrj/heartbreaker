@@ -1,4 +1,8 @@
-#class #warlock
+---
+tags:
+  - class
+  - warlock
+---
 Warlocks pledge their soul to a higher power in exchange for their gifts. Their patrons take many forms, but all see the value in exchanging temporary boons for a soul in eternaty.
 
 *"this is but one of the roads a man can walk to lose his humanity" ---Luke Gearing*

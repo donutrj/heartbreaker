@@ -1,4 +1,8 @@
-#class #paladin
+---
+tags:
+  - class
+  - paladin
+---
 Paladins are a martial group, who serve bound by their oath. Given power by states and gods, they pledge to uphold their oath at all costs. There are many who aspire to be paladins, but few manage to join their ranks.
 # Core Stats
 | **Level** | Awar | Comm | Coor | Know | Subt | Surv |

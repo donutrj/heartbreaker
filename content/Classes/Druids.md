@@ -1,4 +1,8 @@
-#class #druid
+---
+tags:
+  - class
+  - druid
+---
 Druids are the human representatives of nature in the face of civilization. They draw from the strength of the wild to fuel their workings and further the cause of the wild.
 # Core Stats
 | **Level** | Awar | Comm | Coor | Know | Subt | Surv |

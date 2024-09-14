@@ -1,4 +1,8 @@
-#class #wizard
+---
+tags:
+  - class
+  - wizard
+---
 Wizards are educated spellcasters, who through intense study have learned how to fit spells into their mind, and summon them forth to great effect.
 # Core Stats
 **Hit Die:** d6

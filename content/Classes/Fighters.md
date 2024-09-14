@@ -1,4 +1,8 @@
-#class #fighter
+---
+tags:
+  - class
+  - fighter
+---
 Fighters are the muscle, the killers. These are the dangerous swordsmans, the heavy cavalry, and the ones who charge first through the breach in the wall. Do not take them as fools, though some are, they lead armies and command the battlefield.
 # Core Stats
 **Hit Die:** d10

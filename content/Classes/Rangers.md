@@ -1,4 +1,8 @@
-#class #ranger
+---
+tags:
+  - class
+  - ranger
+---
 Rangers are guardians and shepards of the party. They more than anyone stand between the dangers of the wild and the party. 
 # Core Stats
 | **Level** | Awar | Comm | Coor | Know | Subt | Surv |

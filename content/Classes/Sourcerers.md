@@ -1,4 +1,8 @@
-#class #sourcerer
+---
+tags:
+  - class
+  - sourcerer
+---
 Sourcerers are inate spellcasters. For reasons beyond understanding, these natural protoges can summons powerful effects through sheer will. Results are often unpredicable.
 # Core Stats
 | **Level** | Awar | Comm | Coor | Know | Subt | Surv |
