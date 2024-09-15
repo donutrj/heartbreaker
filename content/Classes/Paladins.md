@@ -25,15 +25,12 @@ Paladins are a martial group, who serve bound by their oath. Given power by stat
 # Core Features
 + **Hit Die:** d10
 + Proficient with all armor & weapons
-## Skills
-1.
-
 # Class Progression
 1. [[Paladins#Oaths|Oaths]] & [[Paladins#Conviction|Conviction]]
 2. [[Paladins#Divine Smite|Divine Smite]]
 3. [[Paladins#Holy Aura|Holy Aura]]
 4. Expanded Spelllist
-5. Bulwark of Purpose
+5. Holy Mount
 # Conviction
 A paladin is defined by their conviction in their oath. A paladin starts each day with conviction equal to their paladin level + 1. Conviction can be spent in a number of ways from their aura to their smite.
 # Oaths
@@ -47,6 +44,9 @@ Depending on the oath, the paladin will gain access to different spells. These s
 4. Do not touch or interact with corpses, except as necessary or when directed by an athority
 5. Do not touch or carry bladed weapons except as necessary for your duties.
 ### Order Spells
+| Level 1 | Level 4 |
+| ------- | ------- |
+|         |         |
 
 ## Oath of Truth
 1. **Do not, through action or inaction, allow a guilty person to escape justice.** Ignore all other tenets if they would interfere with this, your most important goal.
@@ -76,4 +76,5 @@ The paladin is the bulwark against the storm. Others find comfort in your presen
 + On touch you may spend a point of conviction to stablize the critically injured.
 + You may spend a point of conviction to make an ally reroll a save if they are in line-of-sight.
 + You may spend a point of conviction to gain 1d6 HP.
-# Bulwark of Purpose
+# Holy Mount
+With 10 minutes of prayer and ritual, you can summon your divine mount, which takes the form of an animal associated with your Oath. It obeys your commands unquestioningly and it is large enough to ride. You can dismiss it at any time. If it dies, you cannot summon it again for a week. It doesn’t need food, water, or sleep.

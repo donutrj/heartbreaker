@@ -36,8 +36,8 @@ Druids hail from different domains, representives of a different set of the many
 | **Level** | Spells | Mana Dice |
 | --------- | ------ | --------- |
 | **1**     | 3      | 2         |
-| **2**     | 3      | 2         |
-| **3**     | 6      | 2         |
+| **2**     | 3      | 3         |
+| **3**     | 6      | 3         |
 | **4**     | 6      | 4         |
 | **5**     | 6      | 4         |
 
@@ -58,9 +58,9 @@ Most animals will be willing to work for an extended period of time if their nee
 ## Survivalist
 Choose one of the following:
 ### Forager
-You can gather d4+2 worth of rations by foraging in the wild. Foraging takes 6 hours. Additionally you can tell when food and water is safe to consume.
+You can gather d4+2 worth of rations by foraging in the wild. Foraging takes a day. Additionally you can tell when food and water is safe to consume.
 ### Scavenger
-You can forge items from natural materials. 2 slots worth of materials is enough to make two light weapons, one medium weapon, a longbow and 20 arrows, or a wooden shield.
+You can forge items from natural materials. 2 slots worth of materials is enough to make two light weapons, one regular weapon, a longbow and 20 arrows, or a wooden shield.
 ### Sleeper
 You can rest anywhere, under any conditions, and no longer require a campsite, fire etc.
 ## Beastform
@@ -102,8 +102,14 @@ To cast a spell, the druid rolls a number of mana dice along with a d20 as per [
 Use the sum and count of dice to determine the spell effect as per their rules.
 
 If the dice come up as doubles, consult the druid's circle for the corresponding mishap. If triples, consult the catastrophes instead.
-
-
+## Circle of the Sky
+| Level 1                             | Level 3                                       |
+| ----------------------------------- | --------------------------------------------- |
+| [[Spells#Cloudshift\|Cloudshift]]   | [[Spells#Summon Lightning\|Summon Lightning]] |
+| [[Spells#Blastwinds\|Blastwinds]]   | [[Spells#Fogbank\|Fogbank]]                   |
+| [[Spells#Thunderclap\|Thunderclap]] | [[Spells#Sunbeam\|Sunbeam]]                   |
+## Circle of the Mountain
+mirage 
 
 
 

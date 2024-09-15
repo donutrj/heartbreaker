@@ -1,7 +1,14 @@
 ---
 tags:
   - wizard
+  - druid
 ---
+# Blastwinds
++ Range: 30'
++ Target: Single
++ Duration: Instant
+
+The druid commands the winds to momentarily work together to blast a target with significant force. The target is blown 15' in the direction of the druid's choosing. If a living target, they can attempt a DC 8 + (sum) reflex save.
 # Blink
 #unused 
 + Range: 40'
@@ -26,6 +33,16 @@ Caster points at target within line of sight, making a ranged attack against the
 This repeats a total of 1 + (count) times or until a target makes the warding save.
 
 All struck, take 1d10 + (sum) damage, rolled seperately. The caster cannot be targeted, nor can a target be struck twice.
+# Cloudshift
++ Range: N/A
++ Target: Open sky
++ Duration: One day
+
+The druid slits the sky open, letting in the weather of the fairyland bleed into the material plane. For the duration of the spell, the weather is shifted (count) in the direction of the druid's choosing.
+
+This can be used to bring a storm or clear one. This can be used to make a storm meaningfully more intense.
+
+Storming -> Raining -> Overcast -> Clear
 # Color Spray
 + Range: 15' cone
 + Target: Sighted Creatures
@@ -98,6 +115,14 @@ Creature is healed for (sum) * 2 HP, up to (sum) points higher than their normal
 + Duration: (sum) minutes
 
 Target creature is afraid of you for duration, requiring a Willpower Save to act against you. The caster can target multiple creatures, dividing dice between them before rolling.
+# Fogbank
++ Range: Touch
++ Target: Area
++ Duration: (Sum) hours
+
+You open your mouth wide as a thick fog erupts forth, Over only a few seconds a thick damp fog blankets the area. The fog vaguely smells like whatever you last ate.
+
+Can be dispersed with a strong wind.
 # Hypnotic Orb
 + Range: Touch
 + Target: Object
@@ -222,6 +247,26 @@ You conjure an invisible sensor to a point in space that you designate. Unlike m
 If you invest at least two casting dice, you can also hear through the sensor. If you invest at least three dice, you can also speak through the sensor.
 
 If you use an actual crystal ball when casting this spell, the range is instead (count) miles. Crystal balls are rare enough that they are never offered for sale, but are worth upwards of 3,000s
+# Summon Lightning
++ Range: 50'
++ Target: Single
++ Duration: Instant
+
+A lightning storm brews overhead. (count) bolts rain down striking random targets within a 25' radius circle, dealing 2d10 damage or half that on a successful Warding Save
+# Sunbeam
++ Range: 100'
++ Target: Line
++ Duration: Instant
+
+Opening your mouth, a beam of pure sunlight shoots forth, blinding those in it's path for (count) minutes on a failed Warding Save. Those affected also find themselves with severe sunburns regardless of Save.
+# Thunderclap
++ Range: 50'
++ Target: Point in space
++ Duration: Instant
+
+With a snap of the fingers conjure a loud thunderclap, deafening all those within 10' of the blast for (count) hours.
+
+Does not require line of sight.
 # Wall of Light
 + Range: 50'
 + Target: Wall or Sphere

@@ -74,18 +74,13 @@ Depending on the area of study, wizarding education conveys certain perks and de
 + You cannot cast spells while blinded
 + You have particularly poor sight in dim lighting
 ### Spell List
-1. [[Spells#Illusion|Illusion]]
-2. [[Spells#Disguise|Disguise]]
-3. [[Spells#Light|Light]]
-4. [[Spells#Mirror Object|Mirror Object]]
-5. [[Spells#Mirror Image|Mirror Image]]
-6. [[Spells#Prismatic Ray|Prismatic Ray]]
-7. [[Spells#Hypnotic Orb|Hypnotic Orb]]
-8. [[Spells#Invisibility|Invisibility]]
-9. [[Spells#Color Spray|Color Spray]]
-10. [[Spells#Wizard Vision|Wizard Vision]]
-11. [[Spells#Scry|Scry]]
-12. [[Spells#Wall of Light|Wall of Light]]
+| Level 1                                 | Level 2                                 | Level 3                               | Level 4                                 | Level 5                                 |
+| --------------------------------------- | --------------------------------------- | ------------------------------------- | --------------------------------------- | --------------------------------------- |
+| [[Spells#Illusion\|Illusion]]           | [[Spells#Mirror Image\|Mirror Image]]   | [[Spells#Hypnotic Orb\|Hypnotic Orb]] | [[Spells#Color Spray\|Color Spray]]     | [[Spells#Scry\|Scry]]                   |
+| [[Spells#Disguise\|Disguise]]           | [[Spells#Prismatic Ray\|Prismatic Ray]] | [[Spells#Invisibility\|Invisibility]] | [[Spells#Wizard Vision\|Wizard Vision]] | [[Spells#Wall of Light\|Wall of Light]] |
+| [[Spells#Light\|Light]]                 |                                         |                                       |                                         |                                         |
+| [[Spells#Mirror Object\|Mirror Object]] |                                         |                                       |                                         |                                         |
+
 ## Necromancy
 Not the favorite school of wizarding. Many argue such research has given wizarding a foul reputation. The legality of the study of necromancy is often in often in flux, and the practice of it often outright illegal.
 ### Perks
@@ -95,15 +90,10 @@ Not the favorite school of wizarding. Many argue such research has given wizardi
 + You cannot cast a spell targeting someone healed within the last three turns
 + You cannot cast a spell if you were healed within the last three turns
 ### Spell List
-1. [[Spells#Essential Salts|Essential Salts]]
-2. [[Spells#Explode Corpse|Explode Corpse]]
-3. [[Spells#Death Mask|Death Mask]]
-4. [[Spells#Fear|Fear]]
-5. [[Spells#Rot|Rot]]
-6. [[Spells#Raise Zombie|Raise Zombie]]
-7. [[Spells#False Life|False Life]]
-8. [[Spells#Raise Crawling Claw|Raise Crawling Claw]]
-9. [[Spells#Death Scythe|Death Scythe]]
-10. [[Spells#Raise Skeleton|Raise Skeleton]]
-11. [[Spells#Doom Song|Doom Song]]
-12. [[Spells#Raise Skin Kite|Raise Skin Kite]]
+| Level 1                                     | Level 2                               | Level 3                                             | Level 4                                   | Level 5                                     |
+| ------------------------------------------- | ------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------- |
+| [[Spells#Essential Salts\|Essential Salts]] | [[Spells#Rot\|Rot]]                   | [[Spells#False Life\|False Life]]                   | [[Spells#Death Scythe\|Death Scythe]]     | [[Spells#Doom Song\|Doom Song]]             |
+| [[Spells#Explode Corpse\|Explode Corpse]]   | [[Spells#Raise Zombie\|Raise Zombie]] | [[Spells#Raise Crawling Claw\|Raise Crawling Claw]] | [[Spells#Raise Skeleton\|Raise Skeleton]] | [[Spells#Raise Skin Kite\|Raise Skin Kite]] |
+| [[Spells#Death Mask\|Death Mask]]           |                                       |                                                     |                                           |                                             |
+| [[Spells#Fear\|Fear]]                       |                                       |                                                     |                                           |                                             |
+
