@@ -1,4 +1,7 @@
-#wizard
+---
+tags:
+  - wizard
+---
 # Blink
 #unused 
 + Range: 40'

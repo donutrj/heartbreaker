@@ -36,7 +36,7 @@ All barbarians have a pool of rage points, 2 at first level and +1 every level a
 
 When you eat a big meal, drink deep and get a good night's rest, regain a point. When you go hungry, stay up all night and brood on your many enemies, regain a point. If disrespected while your rage pool is full, save vs. flying right off the handle.
 # Eye of the Storm
-Barbarians revel in the chaos of battle. They cannot be [[Combat#Flanking|flanked]], nor [[Combat#Overrun|overrun]].
+Barbarians revel in the chaos of battle. They cannot be [[Rolling Dice#Combat#Flanking|flanked]], nor [[Rolling Dice#Combat#Overrun|overrun]].
 # Barbarian Paths
 ## Ancestral Guardians
 For you, rage is a family heirloom passed down through generations, like a pocket-watch or a cake recipe. Its embrace is as comfortable as a pair of well-worn boots. When you scream your battle cry, a hundred ghostly voices sing in harmony. 

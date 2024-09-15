@@ -31,43 +31,45 @@ Wizards can use light armor and non-martial weapons. That said, most wizards wea
 # Level Progression
 When you first become a wizard, choose a wizarding order. This will determine which spells you will have access to as you level up. Consult the table below to see how the wizard levels up.
 
-| **Level** | Spells   | Spell Slots | Mana Dice | Cast Bonus |
-| --------- | -------- | ----------- | --------- | ---------- |
-| **1**     | First 4  | 2           | 2         | +0         |
-| **2**     | First 6  | 3           | 3         | +0         |
-| **3**     | First 8  | 3           | 4         | +2         |
-| **4**     | First 10 | 4           | 6         | +2         |
-| **5**     | All 12   | 4           | 8         | +3         |
+| **Level** | Spells   | Spell Slots | Mana Dice |
+| --------- | -------- | ----------- | --------- |
+| **1**     | First 4  | 2           | 2         |
+| **2**     | First 6  | 3           | 3         |
+| **3**     | First 8  | 3           | 4         |
+| **4**     | First 10 | 4           | 6         |
+| **5**     | All 12   | 4           | 8         |
 # Spellcasting
 The major feature of wizards is their ability to take dusty tomes, read them, then alter reality at their whim. As wizards gain levels, they gain an increasing number of Spell Slots and Mana Dice (see table above).
 
-Spell Slots are physical holes in the wizard's brain where spells live. When a wizard wakes from slumber, they can spend the time to consult their tomes and choose which spells will occupy their head for the rest of the day.
+Spell Slots are physical holes in the wizard's brain where spells live. When a wizard wakes from slumber, they can spend 30 minutes to consult their tomes and choose which spells will occupy their head for the rest of the day, banishing the rest into their tomes.
 
-Mana Dice are the fish food for these magical entities. Whenever a caster releases a spell, they commit a number of dice it it's casting. This impacts the effect of the spell as described.
+Mana Dice are the fish food for these magical entities. Whenever a caster releases a spell, they commit a number of ~~fish~~ dice it it's casting. This impacts the effect of the spell as described.
 
 A wizard may cast the same spell from their hole multiple times in a day, assuming they have at least one die to commit to it.
 ## Mechanics
-To cast a spell, the wizard makes an intelligence test. 
+To cast a spell, the wizard rolls a number of mana dice and consults their spell.
+
+If the dice come up as doubles, consult their order for the corresponding mishap. If triples, consult the catastrophes instead.
 ## Concentration
-Some spells require concentration, which means it ends when the target moves out of sight, range, or when the wizard becomes distracted.
+Some spells require concentration, which means it ends when the target moves out of sight, range, or when the wizard becomes distracted (such as when hit with a stick)
 ## Learning New Spells
 Depending on the order the spellcaster selects, they will learn to record a different set of spells on their spellbooks.
 
-Additional spells can be found in a miriade of locations. The most common are wands and scrolls. The nature of fitting an entire spell on a single sheet results in scrolls being single use, consumed upon their casting. Wands are inlayed in a more permanent fashion, allowing the caster to use them repeatably.
+Additional spells can be found in a myriad of locations. The most common are wands and scrolls. The nature of fitting an entire spell on a single sheet results in scrolls being single use, consumed upon their casting. Wands are inlayed in a more permanent fashion, allowing the caster to use them repeatedly.
 
-Unshakled spells can oft be falsely identified as demons, angels, or possessed objects. Wizards can attempt to shakle them onto a recorded medium when properly identified.
+Unshackled spells can oft be falsely identified as demons, angels, or possessed objects. Wizards can attempt to shackle them onto a recorded medium when properly identified.
 # Identifying Magical Items
-Wizards can attempt to identify magical items. With a few seconds of examination, (touching, sniffing, licking, etc) a wizard can determine whether something is magical. With 10 minutes of study, a wizard can attempt a intelligence test to learn more about it
+Wizards can attempt to identify magical items. With a few seconds of examination, (touching, sniffing, licking, etc) a wizard can determine whether something is magical. With 10 minutes of study, a wizard can attempt an intelligence test to learn more about it
 
 Sometimes the specifics of a magical item cannot be identified immediately. Powerful artifacts or cursed items can take weeks to understand their innerworkings.
 
 If a wizard fails to identify an object, they can only try again after visiting a library with magical texts.
 # Wizarding Orders
-Depending on the area of study, wizarding education conveys certain perks and detrements. The order a character belongs to will also impact the spells avalible to them.
+Depending on the area of study, wizarding education conveys certain perks and detriments. The order a character belongs to will also impact the spells available to them.
 ## Illusionist
 ### Perks
 + Illusions you cast last for an extra minute
-+ You can cast off of mirros. treating them as the origin for line of sight spells
++ You can cast off of mirrors. treating them as the origin for line of sight spells
 ### Limitations
 + You cannot cast spells while blinded
 + You have particularly poor sight in dim lighting

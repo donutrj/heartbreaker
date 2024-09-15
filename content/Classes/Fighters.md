@@ -22,7 +22,7 @@ Fighters are the muscle, the killers. These are the dangerous swordsmans, the he
 | **3**     | +2     | +3       |         | +1        |
 | **4**     | +3     | +3       |         | +1        |
 | **5**     | +4     | +3       | +1      | +2        |
-# Proficencies
+# Proficiencies
 Fighters can use all armors and weapons.
 # Starting Equipment
 If this is your character's first level, your character starts with the following:
@@ -61,15 +61,15 @@ Make a DC12 Charisma Test. If successful, the order is executed.
 
 You know a number of orders equal to your level in Fighter.
 
-+ **Kill That One!** Point at a target within line-of-sight. The first ally to strike the target deals a [[Combat#Critical Hits|critical hit]].
-+ **CHARGE!** Until your next turn, allies that take the [[Combat#Actions|Charge]] action can move an extra 10'
++ **Kill That One!** Point at a target within line-of-sight. The first ally to strike the target deals a [[Rolling Dice#Combat#Critical Hits|critical hit]].
++ **CHARGE!** Until your next turn, allies that take the [[Rolling Dice#Combat#Actions|Charge]] action can move an extra 10'
 + **Get Back!** Point at an ally within line of sight. They can immediately retreat 10' without prompting reactions.
 + **Fell the Beast!** Point at a target larger than a human (such as horse & rider or a troll). Allies gain +1 to hit until your next turn.
 + **Magicians, Brace Yourselves!** Allies within earshot gain advantage on Warding Saves until your next turn.
 + **Hold Yourself Together!** Make eye contact with an ally. They reduce their stress to zero.
 ### Battlemaster Fighting Styles
 ### One Step Ahead
-Whenever the sum of your attack roll is equal to or greater than 20, perform a free [[Combat#Combat Maneuvers|combat maneuver]].
+Whenever the sum of your attack roll is equal to or greater than 20, perform a free [[Rolling Dice#Combat#Combat Maneuvers|combat maneuver]].
 
 
 

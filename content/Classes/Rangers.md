@@ -3,8 +3,10 @@ tags:
   - class
   - ranger
 ---
-Rangers are guardians and shepards of the party. They more than anyone stand between the dangers of the wild and the party. 
+Rangers are guardians and shepherds of the party. They more than anyone stand between the dangers of the wild and the party. 
 # Core Stats
+**Hit Die:** d8
+
 | **Level** | Awar | Comm | Coor | Know | Subt | Surv |
 | --------- | ---- | ---- | ---- | ---- | ---- | ---- |
 | **1**     | +2   |      | +2   | +1   | +1   | +1   |
@@ -20,9 +22,9 @@ Rangers are guardians and shepards of the party. They more than anyone stand bet
 | **3**     | +3     | +2       | +1      | +1        |
 | **4**     | +3     | +3       | +1      | +1        |
 | **5**     | +4     | +3       | +1      | +1        |
-
-
-# Class Progression
+# Proficencies
+Rangers can use Light and Medium armor, non-martial melee weapons, and all ranged weapons.
+# Level Progression
 When you first take a level in ranger, do the following:
 + Select a [[Rangers#Fighting Style|fighting style]].
 + Choose two features from [[Rangers#Seasoned Traveller|seasoned traveller]].
@@ -36,21 +38,20 @@ At level one, the ranger picks one of the following fighting styles.
 3. **Defense:** You gain +2 to Reflex Saves when avoiding an attack.
 4. **Dueling:** When you are wielding a melee weapon in one hand with an empty offhand, you gain a +2 bonus to damage.
 5. **Massive Weapon Fighting:** When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon you are wielding with two hands, you can reroll that damage die.
-6. **Interception:** You can [[parry]] as per [[man-at-arms]].
-7. **Mariner:** While wearing meduim armor or less and while not carrying a shield, you can swim and climb as fast as you can run, and you gain a +1 bonus to AC.
-8. **Simple Sorcery:** You know how to do two of the following hedge0mage tricks with a few seconds of mumbling and finger-waggling:
-	1. Light a flammable onject at a touch.
+6. **Interception:** You can [[Fighters#Universal|parry]] as per [[Fighters]].
+7. **Mariner:** While wearing light armor or less and while not carrying a shield, you can swim and climb as fast as you can run, and you gain a +1 bonus to Reflex Saves when dodging an attack.
+8. **Simple Sorcery:** You know how to do two of the following hedge mage tricks with a few seconds of mumbling and finger-waggling:
+	1. Light a flammable object at a touch.
 	2. Bless a fist-sized stone, that it can be thrown with the range of an arrow for 1d6 damage.
-	3. Bless a club or staff, that its base damage dice bump up one size.
+	3. Bless a club or staff, it's damage die bumps up by one.
 	4. Produce a terrifying thunderclap with a snap of your fingers.
 	5. Produce a fistful of maddened, stinging, biting insects.
 	6. Freeze up to a liter of water.
 	7. Project your voice through a fire that you can see.
 	8. Bind a subdued or non-resisting person with tight vines.
-9. **Superior Technique:** You may learn one combat maneuver from the man-at-arms class.
-10. **Thrown Weapon Fighting:** You can draw and throw a light weapon, even if it is concealed, with one motion. You gain a +2 bonus to damage with thrown weapons.
-11. **Two- Weapon Fighting:** When holding two weapons, you gain a +1 bonus to belee damage and +1 Reflex Saves when dodging an attack.
-12. **Unarmed Fighting:** Your hands are light weapons. You can automatically bite, strangle, and tear a creature you have grappled for 1d6 damage once per turn without using an attack.
+9. **Thrown Weapon Fighting:** You can draw and throw a light weapon, even if it is concealed, with one motion. You gain a +2 bonus to damage with thrown weapons.
+10. **Two-Weapon Fighting:** When holding two weapons, you gain a +1 bonus to belee damage and +1 Reflex Saves when dodging an attack.
+11. **Unarmed Fighting:** Your hands are light weapons. You can automatically bite, strangle, and tear a creature you have grappled for 1d6 damage once per turn without using an attack.
 # Seasoned Traveller
 Rangers are wide-ranging, able to stand tall across a wide set of landscapes. With each level in ranger, select two of the following descriptions:
 + Barren
@@ -104,7 +105,7 @@ Your study of monster-slaying has made you more difficult to kill, gain one of t
 + Facing a crowd, you excel at bobbing and weaving between their attacks, causing your opponents to foul each other. For each attack made against you in a round, you gain an advantage for the rest of the round.
 #### Claw/Claw/Bite
 Your study of monster-slaying has given you a set of advantages to overwhelm the most dangerous targets. Choose one of the following neat tricks:
-+ You can seize every opportunity for a critical hit, kind-of. When you make a weapon attack against a creature, you may choose to ignore lesser opportunities and only take the perfect shot. Roll your attack with disadvantage. If you hit, it's a [[Combat#Critical Hits|critical hit]].
++ You can seize every opportunity for a critical hit, kind-of. When you make a weapon attack against a creature, you may choose to ignore lesser opportunities and only take the perfect shot. Roll your attack with disadvantage. If you hit, it's a [[Rolling Dice#Combat#Critical Hits|critical hit]].
 + You can shoot a whole quiver of arrows at once, poorly. Choose a circular area of radius 10' within 200'. Spend a full turn aiming a fully-loaded string of 12 arrows, then on the second turn, shoot. Roll an attack against all creatures in the area. Roll two attacks against creatures larger than a man.
 + You can fend off an army, frantically. Instead of your normal attack, you may spin in a circle and strike at all creatures within reach of your melee weapon. Roll a separate attack for each.
 #### Scout's Honor 
@@ -155,7 +156,7 @@ In the darkest places — deep under the earth, in narrow alleyways, in primeval
 + **Level 4:** [[Rangers#Stalker's Flurry|Stalker's Flurry]]
 + **Level 5:** [[Rangers#Shadowy Dodge|Shadowy Dodge]]
 #### Dread Ambusher
-The best defense if a crushing assault. If you win [[Combat#Initiative|initiative]], take two turns in the first round of combat.
+The best defense if a crushing assault. If you win [[Rolling Dice#Combat#Initiative|initiative]], take two turns in the first round of combat.
 #### Umbral Stalker
 Your enemies expect to be masters of the darkness; they are weakest when they believe they are strong. You have 30' of black-and-white darkvision. While in strong shadows, you gain two advantage to remain hidden.
 #### Iron Mind

@@ -7,6 +7,8 @@ Warlocks pledge their soul to a higher power in exchange for their gifts. Their 
 
 *"this is but one of the roads a man can walk to lose his humanity" ---Luke Gearing*
 # Core Stats
+**Hit Die:** d8
+
 | **Level** | Awar | Comm | Coor | Know | Subt | Surv |
 | --------- | ---- | ---- | ---- | ---- | ---- | ---- |
 | **1**     |      |      |      | +1   | +1   |      |

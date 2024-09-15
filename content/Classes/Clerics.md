@@ -5,6 +5,8 @@ tags:
 ---
 Clerics are the will of their god. Humans who dedicate themselves to their god are gifted terrible powers but are required to uphold their vows.
 # Core Stats
+**Hit Die:** d8
+
 | **Level** | Awar | Comm | Coor | Know | Subt | Surv |
 | --------- | ---- | ---- | ---- | ---- | ---- | ---- |
 | **1**     | +1   | +1   |      | +2   |      |      |

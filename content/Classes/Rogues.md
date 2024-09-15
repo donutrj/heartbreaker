@@ -5,6 +5,8 @@ tags:
 ---
 Rogues are the scoundrels operating in the dark. Their athelticism, boldness, and good fortune allow them to pull off feats others would call impossible. 
 # Core Stats
+**Hit Dice:** d8
+
 | **Level** | Awar | Comm | Coor | Know | Subt | Surv |
 | --------- | ---- | ---- | ---- | ---- | ---- | ---- |
 | **1**     | +2   | +1   | +1   |      | +2   |      |

@@ -6,8 +6,8 @@ Blindsight ignores the [[Effects and Conditions#Blinded|blinded]] condition with
 # Fall Damage
 A character takes 1d6 damage per 10' fallen
 # Flanked
-A character has enemies in opposite hexes either side of them. See [[Combat#Flanking|Flanking]].
+A character has enemies in opposite hexes either side of them. See [[Rolling Dice#Combat#Flanking|Flanking]].
 # Invisibility
 Targeting an invisible target is the same as taking an action while [[Effects and Conditions#Blinded|Blind]].
 # Overrun
-A character has enemies in any four adjacent hexes. See [[Combat#Overrun|Overrun]].
+A character has enemies in any four adjacent hexes. See [[Rolling Dice#Combat#Overrun|Overrun]].
