@@ -24,6 +24,8 @@ Used when saves are called for by the GM. Used to avoid danger. Their values are
 + Physique 
 + Warding
 + Willpower
+### Enemy Saves
+When a character forces an enemy to make a save
 # Classes
 Classes help define the niche that your character fits within. Each class has five levels, which are progressed through as your character gains [[experience]].
 

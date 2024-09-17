@@ -40,7 +40,6 @@ Druids hail from different domains, representives of a different set of the many
 | **3**     | 6      | 3         |
 | **4**     | 6      | 4         |
 | **5**     | 6      | 4         |
-
 ## Foster
 With a gentle touch and a round of focus, you can accelerate natural cycles, causing trees to grow 1d6 feet, bees to construct a new hive, a spearhead to dull, and the like. However, this unbalances the affected cycle, causing the entity to shrivel or disintegrate over the course of the next hour unless you tend to it for that time.
 ## Wildspeak
@@ -108,21 +107,16 @@ If the dice come up as doubles, consult the druid's circle for the corresponding
 | [[Spells#Cloudshift\|Cloudshift]]   | [[Spells#Summon Lightning\|Summon Lightning]] |
 | [[Spells#Blastwinds\|Blastwinds]]   | [[Spells#Fogbank\|Fogbank]]                   |
 | [[Spells#Thunderclap\|Thunderclap]] | [[Spells#Sunbeam\|Sunbeam]]                   |
+## Circle of the Forest
+| Level 1                   | Level 3                                     |
+| ------------------------- | ------------------------------------------- |
+| [[Spells#Thorns\|Thorns]] | [[Spells#Bramble Burrows\|Bramble Burrows]] |
+| [[Spells#Flock\|Flock]]   |                                             |
+| [[Spells#Ripen\|Ripen]]   |                                             |
 ## Circle of the Mountain
-mirage 
+| Level 1                                               | Level 3                             |
+| ----------------------------------------------------- | ----------------------------------- |
+| [[Spells#Seven Steeped Stones\|Seven Steeped Stones]] | [[Spells#Split Stone\|Split Stone]] |
+| [[Spells#Ice Armor\|Ice Armor]]                       |                                     |
+| [[Spells#Snowblast\|Snowblast]]                       |                                     |
 
-
-
-
-
-
-
-
-a domain of wilderness demiplane
-
-
-beastform
-
-Beastwalker
-Weatherfella
-Spirit fella

@@ -2,13 +2,14 @@
 tags:
   - wizard
   - druid
+  - cleric
 ---
 # Blastwinds
 + Range: 30'
 + Target: Single
 + Duration: Instant
 
-The druid commands the winds to momentarily work together to blast a target with significant force. The target is blown 15' in the direction of the druid's choosing. If a living target, they can attempt a DC 8 + (sum) reflex save.
+The caster commands the winds to momentarily work together to blast a target with significant force. The target is blown 15' in the direction of the druid's choosing. If a living target, they can attempt a Reflex Save.
 # Blink
 #unused 
 + Range: 40'
@@ -16,6 +17,14 @@ The druid commands the winds to momentarily work together to blast a target with
 + Duration: Instant
 
 The caster momentarly transforms into a coporial phantasmal bolt (about the size of a small orange), shooting to a point within line of sight and unblocked by physical barrier. Upon stopping, they immediately reform to their usual self with a moderately loud *THWOP*.
+# Bramble Burrows
++ Range: Touch
++ Target: Natural earth
++ Duration: One day
+
+The spell digs a burrow under bramble or other undergrowth, and despite the bareness it is a safe and warm refuge. The entrance is privy only to the caster's eyes, but they can guide in up to (sum) visitors. A back exit leads (count) miles in the direction of the caster's choice: the caster does not now exactly where, but the exit must be hidden by vegetation.
+
+The burrow starts to collapse after 1 day or when the caster leaves it.
 # Carrion Compass 
 + Range: touch
 + Target: corpse or undead creature of (count)HD or fewer 
@@ -28,11 +37,11 @@ Caster touches a part of the target, traditionally an organ or bone, and it begi
 + Target: Creature
 + Duration: Instant
 
-Caster points at target within line of sight, making a ranged attack against the defender's Warding Save. On a sucess, the bolt jumps to a random target within Range, forcing a Warding Save, originating from first target. 
+Caster points at target within line of sight, forcing a Warding Save. On a success, the bolt jumps to a random target within Range, forcing a Warding Save, originating from first target. 
 
 This repeats a total of 1 + (count) times or until a target makes the warding save.
 
-All struck, take 1d10 + (sum) damage, rolled seperately. The caster cannot be targeted, nor can a target be struck twice.
+All struck, take 1d10 + (sum) damage, rolled separately. The caster cannot be targeted, nor can a target be struck twice.
 # Cloudshift
 + Range: N/A
 + Target: Open sky
@@ -53,6 +62,12 @@ If (sum) is equal to or greater to the creature's HD, it is befuddled for 1d6 ro
 If (sum) is three times the creature's HD or more, it is stunned for a round, then befuddled for 1d6 rounds.
 
 If (sum) is five times the creature's HD, it is stunned for 1d6 rounds, then befuddled for 1d6 rounds.
+# Deathsight
++ Range: 60'
++ Target: Spirits
++ Duration: (sum) minutes
+
+The caster pierces the veil and can see otherwise invisible spirits. If they have not been warned, the spirits take 1d6 damage.
 # Death Mask
 + Range: Touch
 + Target: Humanoid Corpse
@@ -115,6 +130,12 @@ Creature is healed for (sum) * 2 HP, up to (sum) points higher than their normal
 + Duration: (sum) minutes
 
 Target creature is afraid of you for duration, requiring a Willpower Save to act against you. The caster can target multiple creatures, dividing dice between them before rolling.
+# Flock
++ Range: 20'
++ Target: Shadows
++ Duration: One hour
+
+(Sum) birds swarm to your area. The birds will follow your orders. They act as a swarm with (sum) HP, 12 AC, and may make an attack with + (count) to hit, dealing 1d4+(sum) damage on a hit. They will depart within an hour.
 # Fogbank
 + Range: Touch
 + Target: Area
@@ -133,6 +154,12 @@ You enchant a mostly-spherical object so that it's surface is covered with a cap
 The effect is broken if the line of sight is broken, if something startles them (a loud adjacent shout), or if they see signs of obvious danger (such as someone killing their friends).
 
 Groups of statistically identical NPCs should make their saves as a group.
+# Ice Armor
++ Range: N/A
++ Target: Self
++ Duration: (count) rounds
+
+For the duration of the spell, ice collects on the surface of the caster, forming a thick crust. Reduce all incoming damage for the duration of the spell by an additional 1d6.
 # Illusion
 + Range: 50'
 + Target: (count) * 5' diameter
@@ -202,7 +229,7 @@ Nimble but strong, but fragile. In the condition as time of death.
 
 Skeletons will follow simple instructions.
 
-Magic Dice are not refreshed until skeleton is dispelled at wizard's whim.
+Mana Dice are not refreshed until skeleton is dispelled at wizard's whim.
 # Raise Skin Kite
 + Range: Touch
 + Target: Flayed Corpse
@@ -212,7 +239,7 @@ Once a corpse is flayed, it takes an hour to make it into a suitable kite. The k
 
 A skin kite can fly clumsily, relying on winds to keep it aloft.
 
-Magic Dice are not refreshed until zombie is dispelled at wizard's whim.
+Mana Dice are not refreshed until skin kite is dispelled at wizard's whim.
 # Raise Zombie
 + Range: Touch
 + Target: Corpse
@@ -222,7 +249,13 @@ Slow and lumbering, but strong as base creature. In the condition as time of dea
 
 Zombies will follow simple instructions.
 
-Magic Dice are not refreshed until the skin kite is dispelled at wizard's whim.
+Mana Dice are not refreshed until the skin kite is dispelled at wizard's whim.
+# Ripen
++ Range: Touch
++ Target: n/a
++ Duration: n/a
+
+You cause a living plant you touch to ripen to harvest, creating up to (count) rations or uses.
 # Rot
 + Range: Touch
 + Target: Object
@@ -247,6 +280,27 @@ You conjure an invisible sensor to a point in space that you designate. Unlike m
 If you invest at least two casting dice, you can also hear through the sensor. If you invest at least three dice, you can also speak through the sensor.
 
 If you use an actual crystal ball when casting this spell, the range is instead (count) miles. Crystal balls are rare enough that they are never offered for sale, but are worth upwards of 3,000s
+# Seven Steeped Stones
++ Range: Touch
++ Target: Seven stones
++ Duration: Varies
+The caster places their sigil on a seven stones, then cooks them well in abundant milk. They can each be used once to either heal a creature of one point of damage or flung as magic sling stone.
+
+As an alternative the caster can carefully keep on cooking the milk with the stones for a day to produce a brew that grants an extra save against disease or curse.
+
+Twelve stones per inventory slot, mana dice do not recover until spell is dismissed at caster's whim.
+# Snowblast
++ Range: 15' cone
++ Target: All in cone
++ Duration: Instant
+
+The caster creates a fan with their hands, letting the snow storms of the high mountains blast forth. All those caught in the cone take (sum) damage and must pass a warding save or become [[Effects and Conditions#Slowed|slowed]] for (count) rounds.
+# Split Stone
++ Range: 30'
++ Target: Natural stone or earth
++ Duration: 1 hour
+
+The caster commands the earth to split open. A 10' hole opens in the earth. This can be used as a tunnel or pit. The earth returns to it's normal shape after an hour, crushing anything inside. 
 # Summon Lightning
 + Range: 50'
 + Target: Single
@@ -259,6 +313,13 @@ A lightning storm brews overhead. (count) bolts rain down striking random target
 + Duration: Instant
 
 Opening your mouth, a beam of pure sunlight shoots forth, blinding those in it's path for (count) minutes on a failed Warding Save. Those affected also find themselves with severe sunburns regardless of Save.
+# The Bell Tolls
+# Thorns
++ Range: 25'
++ Target: Vegetation
++ Duration: One hour
+
+An area within 25’ covering (count) 5’ hexes grows thick, impassable thorns. The thorns deal 1d6 damage to any creature trying to attack them, and each 5’ square of thorns has and 6 HP.
 # Thunderclap
 + Range: 50'
 + Target: Point in space
