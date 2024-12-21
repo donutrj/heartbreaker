@@ -3,9 +3,9 @@ Stats are broken down into Attributes (used for tests when characters attempt so
 ## Attributes
 The usual 6. Attributes have **values** and **bonuses**, which are determined in [[Player Characters#Creating a Character|character creation]]. 
 + Strength
-+ Agility
++ Dexterity 
 + Constitution
-+ Intelliegence
++ Intelligence
 + Wisdom
 + Charisma
 ## Skills
@@ -35,28 +35,28 @@ Players may opt to spend their experience to multiclass. When multi-classing, di
 ## Overview
 Here's all the classes so far. Yes, I've taken the normal ones from 5e.
 ### Barbarians
-[[Barbarians]] fuel themselves with an inner strength, taking great risks for maximum effect when it matters. They are a martial class that take a beating and dish it right back out.
+[[Barbarians (Redux)]] fuel themselves with an inner strength, taking great risks for maximum effect when it matters. They are a martial class that take a beating and dish it right back out.
 ### Clerics
-[[Clerics]] are the will of their god. Humans who dedicate themselves to their god are gifted terrible powers but are required to uphold their vows.
+[[Clerics (Redux)]] are the will of their god. Humans who dedicate themselves to their god are gifted terrible powers but are required to uphold their vows.
 ### Druids
-[[Druids]] are the human representatives of nature in the face of civilization. They draw from the strength of the wild and the fae court to fuel their workings and further the cause of the fae.
+[[Druids (Redux)]] are the human representatives of nature in the face of civilization. They draw from the strength of the wild and the fae court to fuel their workings and further the cause of the fae.
 ### Fighters
-[[Fighters]] are the muscle, the killers. These are the dangerous swordsmans, the heavy cavalry, and the ones who charge first through the breach in the wall. Do not take them as fools, though some are, they lead armies and command the battlefield.
+[[Fighters (Redux)]] are the muscle, the killers. These are the dangerous swordsmen, the heavy cavalry, and the ones who charge first through the breach in the wall. Do not take them as fools, though some are, they lead armies and command the battlefield.
 ### Paladins
-[[Paladins]] are a martial group, who serve bound by their oath. Given power by states and gods, they pledge to uphold their oath at all costs. There are many who aspire to be paladins, but few manage to join their ranks.
+[[Paladins (Redux)]] are a martial group, who serve bound by their oath. Given power by states and gods, they pledge to uphold their oath at all costs. There are many who aspire to be paladins, but few manage to join their ranks.
 ### Rangers
-[[Rangers]] are guardians and shepards of the party. They more than anyone stand between the dangers of the wild and the party. 
+[[Rangers (Redux)]] are guardians and shepherds of the party. They more than anyone stand between the dangers of the wild and the party. 
 ### Rogues
-[[Rogues]] are the scoundrels operating in the dark. Their athelticism, boldness, and good fortune allow them to pull off feats others would call impossible. 
-### Sourcerers
-[[Sourcerers]] are inate spellcasters. For reasons beyond understanding, these natural protoges can summons powerful effects through sheer will. Results are often unpredicable.
+[[Rogues (Redux)]] are the scoundrels operating in the dark. Their athleticism, boldness, and good fortune allow them to pull off feats others would call impossible. 
+### Sorcerers
+[[Sorcerers (Redux)]] are innate spellcasters. For reasons beyond understanding, these natural protégés can summons powerful effects through sheer will. Results are often unpredictable.
 ### Warlocks
-[[Warlocks]] pledge their soul to a higher power in exchange for their gifts. Their patrons take many forms, but all see the value in exchanging temporary boons for a soul in eternaty. 
+[[Warlocks (Redux)]] pledge their soul to a higher power in exchange for their gifts. Their patrons take many forms, but all see the value in exchanging temporary boons for a soul in eternity. 
 ### Wizards
-[[Wizards]] are educated spellcasters, who through intense study have learned how to fit spells into their mind, and summon them forth to great effect.
+[[Wizards (Redux)]] are educated spellcasters, who through intense study have learned how to fit spells into their mind, and summon them forth to great effect.
 # Creating a Character
 Here's a quick summary on how to build a character.
-## Attributes
+## Rolling Attributes
 For each attribute roll 3d6 and record the **values**. Then assign the values to the [[Player Characters#Attributes|attributes]] of your choosing.
 
 Each value has a corresponding **bonus** as per the table below. Record the bonuses, these are what you add to [[Rolling Dice#Tests|tests]].
@@ -64,13 +64,13 @@ Each value has a corresponding **bonus** as per the table below. Record the bonu
 | Value | Bonus |
 | ----- | ----- |
 | 3     | -4    |
-| 4     | -3    |
-| 5–6   | -2    |
-| 7–9   | -1    |
+| 4–5   | -3    |
+| 6–7   | -2    |
+| 8–9   | -1    |
 | 10–11 | +0    |
-| 12–14 | +1    |
-| 15–16 | +2    |
-| 17    | +3    |
+| 12–13 | +1    |
+| 14–15 | +2    |
+| 16–17 | +3    |
 | 18    | +4    |
 ## Class
 If starting at level one, this is where you pick a [[Player Characters#Classes|class]]. Grab the starting equipment and abilities of the class. If starting at level zero, don't.

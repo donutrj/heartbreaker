@@ -3,7 +3,7 @@ tags:
   - class
   - fighter
 ---
-Fighters are the muscle, the killers. These are the dangerous swordsmans, the heavy cavalry, and the ones who charge first through the breach in the wall. Do not take them as fools, though some are, they lead armies and command the battlefield.
+Fighters are the muscle, the killers. These are the dangerous swordsmen, the heavy cavalry, and the ones who charge first through the breach in the wall. Do not take them as fools, though some are, they lead armies and command the battlefield.
 # Core Stats
 **Hit Die:** d10
 
@@ -33,7 +33,7 @@ If this is your character's first level, your character starts with the followin
 4. Subclass Feature
 5. Second Attack
 ## In the Zone
-The fighter is at home in the thick of it. The fighter gains an [[Rolling Dice#Advantage|advantage]] to all attacks.
+The fighter is at home in the thick of it. The fighter gains [[Rolling Dice#Advantage|advantage]] to all attack rolls.
 ## Second Attack
 When the fighter attacks, they may perform a second attack against the same target.
 ## Fighting Styles
@@ -77,7 +77,7 @@ Whenever the sum of your attack roll is equal to or greater than 20, perform a f
 
 ## Duelist
 ### Solo Artist
-The duelist is trained to fight mono-e-mono. When adjacent to only one enemy, they gain advantage on their attack rolls.
+The duelist is trained to fight mono-e-mono. When adjacent to only one enemy, they gain [[Rolling Dice#Advantage|advantage]] on their attack rolls.
 ### Duelist Fighting Styles
 
 ### Dual-Wielding

@@ -22,7 +22,7 @@ Wizards are educated spellcasters, who through intense study have learned how to
 | **3**     |        |          | +2      | +1        |
 | **4**     | +1     |          | +3      | +1        |
 | **5**     | +1     |          | +3      | +2        |
-# Proficencies
+# Proficiencies
 Wizards can use light armor and non-martial weapons. That said, most wizards wear wizard robes instead.
 # Starting Equipment
 ## Special Equipment
@@ -31,13 +31,13 @@ Wizards can use light armor and non-martial weapons. That said, most wizards wea
 # Level Progression
 When you first become a wizard, choose a wizarding order. This will determine which spells you will have access to as you level up. Consult the table below to see how the wizard levels up.
 
-| **Level** | Spells   | Spell Slots | Mana Dice |
-| --------- | -------- | ----------- | --------- |
-| **1**     | First 4  | 2           | 2         |
-| **2**     | First 6  | 3           | 3         |
-| **3**     | First 8  | 3           | 4         |
-| **4**     | First 10 | 4           | 6         |
-| **5**     | All 12   | 4           | 8         |
+| **Level** | Spell Slots | Mana Dice | Class Feature   |
+| --------- | ----------- | --------- | --------------- |
+| **1**     | 2           | 2         | Identify Magic  |
+| **2**     | 3           | 3         |                 |
+| **3**     | 3           | 4         | Arcane Recovery |
+| **4**     | 4           | 6         |                 |
+| **5**     | 4           | 8         |                 |
 # Spellcasting
 The major feature of wizards is their ability to take dusty tomes, read them, then alter reality at their whim. As wizards gain levels, they gain an increasing number of Spell Slots and Mana Dice (see table above).
 
@@ -58,12 +58,16 @@ Depending on the order the spellcaster selects, they will learn to record a diff
 Additional spells can be found in a myriad of locations. The most common are wands and scrolls. The nature of fitting an entire spell on a single sheet results in scrolls being single use, consumed upon their casting. Wands are inlayed in a more permanent fashion, allowing the caster to use them repeatedly.
 
 Unshackled spells can oft be falsely identified as demons, angels, or possessed objects. Wizards can attempt to shackle them onto a recorded medium when properly identified.
-# Identifying Magical Items
+# Identify Magic
 Wizards can attempt to identify magical items. With a few seconds of examination, (touching, sniffing, licking, etc) a wizard can determine whether something is magical. With 10 minutes of study, a wizard can attempt an intelligence test to learn more about it
 
 Sometimes the specifics of a magical item cannot be identified immediately. Powerful artifacts or cursed items can take weeks to understand their innerworkings.
 
 If a wizard fails to identify an object, they can only try again after visiting a library with magical texts.
+# Arcane Recovery
+A wizard knows when to cut their losses. In times when the mana isn't flowing, you know how to recycle the leftover mana that still floats in the air.
+
+When rolling mana dice, the wizard regains all mana dice that roll a one or two.
 # Wizarding Orders
 Depending on the area of study, wizarding education conveys certain perks and detriments. The order a character belongs to will also impact the spells available to them.
 ## Illusionist

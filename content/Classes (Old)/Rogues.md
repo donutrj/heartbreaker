@@ -22,12 +22,64 @@ Rogues are the scoundrels operating in the dark. Their athelticism, boldness, an
 | **3**     | +3     | +2       | +1      | +2        |
 | **4**     | +3     | +2       | +1      | +2        |
 | **5**     | +4     | +2       | +1      | +2        |
-# Proficencies
+# Proficiencies
 Rogues can use light armor and non-martial weapons.
+# Level Progression
+1. Knacks
+2. Sneak Attack
+3. Lucky
+4. Dabbling
+# Knacks
+While anyone can pick pockets, sneak through the shadows, or climb walls—no one can do it with the finesse of the rogue. The rogue has a number of knack dice(d6s) equal to their level that they can add to rolls for any of the following:
++ Climbing sheer surfaces
++ Finding / Disarming traps
++ Hearing noises
++ Hiding in shadows
++ Moving silently
++ Picking locks
++ Picking pockets
+
+Knack dice can be recovered by spending a hit die while on a short or long rest.
+# Sneak Attack
+The rogue is defined by their ability to hit hard from the shadows. While attacking an unaware target, add your subterfuge bonus to attack and damage rolls. 
+# Lucky 
+Rogues rely on luck and finesse. They receive a pool of luck points to spend on rerolling dice. Whenever a rogue is dissatisfied with a roll, after learning of the consequences, the player can spend a luck point and reroll the die, taking the new result.  
+
+Luck points are recovered on a long rest.
+
+| Level | Luck Points |
+| ----- | ----------- |
+| 3     | 1           |
+| 4     | 2           |
+| 5     | 3           |
+# Dabbling
+Rogues are always expanding their skillsets. Experienced rogues learn from their peers, adapting what works into their catalog of tricks. When you learn this feature, take one of the following.
+## Magic-User
+Gain 
+
+
 # Starting Equipment
 If this is your character's first level, your character starts with the following:
 
-climb 5' per level sheer surface
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

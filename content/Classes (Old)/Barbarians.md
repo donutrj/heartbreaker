@@ -23,7 +23,7 @@ Barbarians fuel themselves with an inner strength, taking great risks for maximu
 | **4**     | +3     | +4       | +1      | +1        |
 | **5**     | +3     | +5       | +1      | +1        |
 
-# Proficencies
+# Proficiencies
 Unless otherwise mentioned you may wear light armor only, may use shields, and are proficient with martial melee weapons. You can still use non-martial ranged weapons.
 # Level Progression
 1. Rage & Eye of the Storm
@@ -41,7 +41,7 @@ Barbarians revel in the chaos of battle. They cannot be [[Rolling Dice#Combat#Fl
 ## Ancestral Guardians
 For you, rage is a family heirloom passed down through generations, like a pocket-watch or a cake recipe. Its embrace is as comfortable as a pair of well-worn boots. When you scream your battle cry, a hundred ghostly voices sing in harmony. 
 
-You are proficent with medium armor and can use martial ranged weapons.
+You are proficient with medium armor and can use martial ranged weapons.
 ### Progression
 2. Ancestral Protectors
 3. Spirit Shield

@@ -47,9 +47,12 @@ You cannot tolerate the undead or spectral. You are charged to bring them down, 
 
 You cannot allow demons and their ilk to claim souls, sign contracts, or cheat others out of eternal slumber.
 ### Spells of Moor
-| Level 1                           | Level 2 | Level 3 | Level 4 | Level 5 |
-| --------------------------------- | ------- | ------- | ------- | ------- |
-| [[Spells#Deathsight\|Deathsight]] |         |         |         |         |
+| Level 1                               | Level 2                                           | Level 3                                   | Level 4 | Level 5 |
+| ------------------------------------- | ------------------------------------------------- | ----------------------------------------- | ------- | ------- |
+| [[Spells#Deathsight\|Deathsight]]     | [[Spells#Acceptance of Fate\|Acceptance of Fate]] | [[Spells#Taste of Death\|Taste of Death]] |         |         |
+| [[Spells#Amaranth\|Amaranth]]         | [[Spells#Sanctify\|Sanctify]]                     |                                           |         |         |
+| [[Spells#Preservation\|Preservation]] |                                                   |                                           |         |         |
+|                                       |                                                   |                                           |         |         |
 # Lay on Hands
 
 https://hammergen.net/spells?search=Lore+of+Death

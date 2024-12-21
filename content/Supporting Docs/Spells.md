@@ -4,6 +4,20 @@ tags:
   - druid
   - cleric
 ---
+# Acceptance of Fate
++ Range: Touch
++ Target: Single
++ Duration: (count) minutes
+
+The caster touches a willing creature or casts it on themselves, the target cannot fail willpower or be affected by fright. They deal +(count) damage with each attack and take just as much when it. 
+
+Additionally the target is unaffected by grief for the duration of the spell. 
+# Amaranth
++ Range: Touch
++ Target: Single
++ Duration: (count) minutes
+
+The caster touches a willing creature or casts it on themselves, the target does not suffer critical hits for the duration of the spell, nor can they be affected by poison or disease.
 # Blastwinds
 + Range: 30'
 + Target: Single
@@ -16,7 +30,7 @@ The caster commands the winds to momentarily work together to blast a target wit
 + Target: Point in space
 + Duration: Instant
 
-The caster momentarly transforms into a coporial phantasmal bolt (about the size of a small orange), shooting to a point within line of sight and unblocked by physical barrier. Upon stopping, they immediately reform to their usual self with a moderately loud *THWOP*.
+The caster momentarily transforms into a corporeal phantasmal bolt (about the size of a small orange), shooting to a point within line of sight and unblocked by physical barrier. Upon stopping, they immediately reform to their usual self with a moderate *THWOP*.
 # Bramble Burrows
 + Range: Touch
 + Target: Natural earth
@@ -196,6 +210,12 @@ You reach into a mirror-like surface and pull out a copy of an object adjacent t
 The mirror object looks and feels exactly like the object it copied. It doesn't copy any magical properties of the object. You cannot duplicate living things in this way. The mirror object pops like a bubble if it suffers a solid blow (a mirror sword could be used once before it vanishes).
 
 If you invest at least 4 dice into this spell, it can copy the magical properties of an item, but those magical properties will only function once. For items with continuous properties, such as a flying carpet, the magic properties will last no longer than 10 minutes (DM's choice).
+# Preservation
++ Range: Touch
++ Target: Large food container
++ Duration: (count) weeks
+
+Prevents the perishables from spoilage, wear, and tear for the duration of the spell.
 # Prismatic Ray
 + Range: 200'
 + Target: Object
@@ -270,8 +290,14 @@ Books sprout into mold, wood becomes soggy, lamps run out of fuel and grow cold,
 + 3+ dice: (sum) years
 
 Undead are not damaged, and are instead healed for (sum) + (count) HP.
+# Sanctify
++ Range: Touch
++ Target: Doorway or threshold
++ Duration: Concentration
+
+You draw a thick line with chalk or other marking instrument around the perimeter of the doorway. While concentrating, undead cannot pass through the barrier.
 # Scry
-+ Range: (count)
++ Range: (count)'
 + Target: Point in space
 + Duration: Concentration
 
@@ -313,7 +339,12 @@ A lightning storm brews overhead. (count) bolts rain down striking random target
 + Duration: Instant
 
 Opening your mouth, a beam of pure sunlight shoots forth, blinding those in it's path for (count) minutes on a failed Warding Save. Those affected also find themselves with severe sunburns regardless of Save.
-# The Bell Tolls
+# Taste of Death
++ Range: 30'
++ Target: Living creature
++ Duration: Instant
+
+You stretch your arm out and open your mouth, letting a phantasm of death slip forth. The target is forced to make a Warding Save. On success they become slowed for (count) rounds else fall unconscious for that duration.
 # Thorns
 + Range: 25'
 + Target: Vegetation

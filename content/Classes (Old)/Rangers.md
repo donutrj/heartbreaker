@@ -52,16 +52,16 @@ At level one, the ranger picks one of the following fighting styles.
 9. **Thrown Weapon Fighting:** You can draw and throw a light weapon, even if it is concealed, with one motion. You gain a +2 bonus to damage with thrown weapons.
 10. **Two-Weapon Fighting:** When holding two weapons, you gain a +1 bonus to belee damage and +1 Reflex Saves when dodging an attack.
 11. **Unarmed Fighting:** Your hands are light weapons. You can automatically bite, strangle, and tear a creature you have grappled for 1d6 damage once per turn without using an attack.
-# Seasoned Traveller
+# Seasoned Traveler
 Rangers are wide-ranging, able to stand tall across a wide set of landscapes. With each level in ranger, select two of the following descriptions:
 + Barren
 + Populous
 + Abandoned
 + Forested
-+ Fridged
-+ WIndswept
++ Frigid 
++ Windswept
 + Arid
-+ Demp
++ Damp
 + Craggy
 + Dark
 + Coastal
@@ -95,7 +95,7 @@ Rangers take many forms, but can be broadly broken down into three traditions--[
 + **Level 5:** [[Rangers#Scout's Honor|Scout's Honor]]
 #### Hunter's Prey
 The Hunters have three traditions, which call themselves **Colossus Slayers**, the **Giant Killers**, and the **Horde Breakers**. These are the main schools of thought among **Hunters**, and every **Hunter** you will meet has a strong opinion on which is best. Choose one of the following neat tricks:
-+ Your weapons seem to always seek out the bruises and cuts in the flesh, the chips and cracks in the armor. WHen you strie a target which is already below its maximum HP, your attack deal an extra 1d6 damage.
++ Your weapons seem to always seek out the bruises and cuts in the flesh, the chips and cracks in the armor. When you strike a target which is already below its maximum HP, your attack deal an extra 1d6 damage.
 + You are always prepared to punish the grasping fingers, talons, and tentacles of lumbering predators. Once per round, when a creature larger thana  man attacks you, you may make an immediate counterattack on its own turn.
 + Your wheeling blows and ripostes keep the swarm at bay. Once per round, when you strike a target, you may make another attack against a second target if its adjacent to the first.
 #### Defensive Tactics
