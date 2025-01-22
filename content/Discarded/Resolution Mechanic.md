@@ -31,3 +31,5 @@ Start each **round** with all chips in a bag. When a character's chip is drawn, 
 
 When effect chips are drawn, their effect occurs. These can include things like fire, poison, bleeding, and death throws.
 # 
+
+Disguarded 

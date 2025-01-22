@@ -1,35 +1,79 @@
 # Core Stats
 Stats are broken down into Attributes (used for tests when characters attempt something) and Saves (when something happens to the character).
 ## Attributes
-The usual 6. Attributes have **values** and **bonuses**, which are determined in [[Player Characters#Creating a Character|character creation]]. 
-+ Strength
-+ Dexterity 
-+ Constitution
-+ Intelligence
-+ Wisdom
-+ Charisma
+There are six attributes. Attributes have **values** and **bonuses**, which are determined in [[Player Characters#Creating a Character#Rolling Attributes|character creation]]. 
++ **Strength (STR):** Raw muscle power.
++ **Dexterity (DEX):** Body control, speed, and find motor skills.
++ **Constitution (CON):** Physical fitness and resilience.
++ **Intelligence (INT):** Book knowledge, intellect, and learning capacity.
++ **Wisdom (WIS):** Intuition, life experience, and common sense.
++ **Charisma (CHA):** Force of personality and empathy.
 ## Skills
-Skills can be used in conjunction with any attribute when making a non-combat, non-class test.
+Skills are used in conjunction with attributes when making [[Mechanics#Tests|tests]]. They provide a bonus and are improvable by spending [[Progression#Skills|experience points]]. 
+### Acrobatics (DEX)
+When jumping, climbing, balancing or performing a similar physical action, roll for this skill.
+### Awareness (WIS)
+As an adventurer you must always be on your guard, or you won’t live long. You use your awareness skill to watch or listen for anyone sneaking around nearby (opposed roll, see sneaking below). The GM can also let Groups: If multiple player characters are in the same place, each of you makes a separate awareness roll. You cannot help (page 32) each other.
+### Bartering (CHA)
+When haggling over the price of something you are buying or selling, roll for bartering. If you succeed, the price goes down or up by 20%.
+### Beast Lore (INT)
+The world is full of common and rare animals and beasts of all kinds. Roll for beast lore when trying to identify an animal or monster, or to know its habits, abilities, and weaknesses. If you succeed, the GM should give you some piece of useful information.
+### Bluffing (CHA)
+To quickly come up with a convincing lie can be an invaluable skill as an adventurer. If the GM finds your bluff unconvincing, you get a bane to your roll. If your bluff is completely unbelievable, it fails automatically – no matter how well you deliver it.
+### Bushcraft (WIS)
+The vast wilderness is a dangerous place where wild beasts roam. The ignorant can lose their lives by choosing the wrong path through the woods or making camp in the wrong spot. Roll for bushcraft to lead the way through the wilderness, make camp, cook food, or stay warm in cold weather.
+### Crafting (WIS)
+As an adventurer, you must often repair your gear if it breaks. Typically, it takes one shift to repair a damaged item, and you need access to the appropriate tools (pg. 78)
+### Evade (DEX)
+Roll for this skill when trying to dodge an attack or flee from combat.
+### Healing (INT)
+As an adventurer there is a significant risk that you and your friends will be injured, sooner or later. That is when healing is useful – with this skill you can get fallen companions back on their feet or even save their lives.
+### Hunting & Fishing (DEX)
+Out in the wild, you will often need to find your own food by hunting or fishing.
+### Languages (INT)
+All player characters can speak the common tongue and read simple texts, and non-human kin also know their own language. To understand foreign or ancient languages, roll for this skill.
+### Myths & Legends (INT)
+When trying to remember stories of old times or distant lands, or trying to understand links to the past, roll for this skill.
+### Performance (CHA)
+When singing a song, reading a poem, making jokes or in some other way try to amuse a crowd, roll for performance.
+### Persuasion (CHA)
+Life as an adventurer is dangerous, but you can often reach your goals without violence, through charm, threats, or sensible reasoning. Roll for persuasion to make another person see things your way. If you succeed, you achieve your stated objective, and the NPC does what you want. However, they might demand something in return – the GM decides what that entails.
 
-Their values are determined by your [[Player Characters#Classes|class]].
-+ Awareness
-+ Communication
-+ Coordination
-+ Knowledge
-+ Subterfuge
-+ Survival
-## Saves
-Used when saves are called for by the GM. Used to avoid danger. Their values are determined by the character's class.
-+ Reflex
-+ Physique 
-+ Warding
-+ Willpower
-### Enemy Saves
-When a character forces an enemy to make a save
+If what you are asking for requires the NPC to sacrifice or risk something important, the roll is more difficult – it becomes an opposed roll between your persuasion and the other person’s WIL. But even in this case your request must be reasonable – no NPC will agree to just anything or act entirely against their own interests, no matter how successful the roll. The GM has the final say.
+### Riding (DEX)
+To get up on a horse and ride slowly doesn’t require a skill roll, for but for more advanced maneuvers you need to roll for riding. Special rules apply [[Combat#Mounted Combat|in combat]].
+### Seamanship (INT)
+Anyone can row a boat or paddle a canoe slowly, but in more challenging situations you need to roll for seamanship to steer a vessel over water. This skill can also be used for navigation.
+### Sleight of Hand (DEX)
+When you are trying to steal something unnoticed, pick a lock, or perform any other action that requires fine motor skills, you roll sleight of hand.
+### Sneaking (DEX)
+It is often wise to avoid combat and hide or sneak past the enemy instead. If you win, you remain undetected. It is usually a straight skill roll, but if someone is actively looking for you, you must make an opposed roll with your sneaking against the enemy’s awareness.
+
+Note that you can only make a sneaking roll when you can actually see or hear the enemy you wish to avoid. You never use sneaking “just in case” there is an enemy nearby.
+#### Group Sneaking:
+If multiple player characters are sneaking around together, each person makes a separate roll. If one of you fails, the whole group is detected.
+### Spot Hidden (INT)
+The art of finding what’s hidden can make you rich beyond measure – or save your life. When you are looking for something concealed, you roll spot hidden. If your description of where you are searching is very precise, the GM can give you advantage or even let you succeed without a roll.
+
+Each spot hidden roll takes roughly a stretch. You only get one attempt to look for the same thing in exactly the same place. Multiple player characters can look simultaneously.
+### Swimming (DEX)
+All player characters can keep afloat for a short time, but for more challenging situations a roll for swimming is required.
+### Weapon Skills (STR/DEX)
+There are several skills for wielding different types of weap- ons. You can read more about weapons and combat in the next chapter.
++ **Axes (STR):** A skill used for combat with axes of all kinds, including when thrown.
++ **Bows (DEX):** A skill for attacks with all types of bows, except crossbows.
++ **Brawling (STR):** Used for unarmed combat with fists, feet, teeth, or claws.
++ **Crossbows (DEX):** This skill is used for attacks with crossbows of all kinds. 
++ **Hammers (STR):** Used for combat with warhammers and other blunt weapons such as clubs and maces.
++ **Knives (DEX):** This skill is used for combat with knives and daggers, including when thrown.
++ **Slings (DEX):** Roll for this skill when attacking with a sling.
++ **Spears (STR):** A skill used for combat with spears and tridents, including when thrown. It also covers lances.
++ **Staves (DEX):** Use this skill when fighting with a staff.
++ **Swords (STR):** Used for combat with all types of swords.     
 # Classes
 Classes help define the niche that your character fits within. Each class has five levels, which are progressed through as your character gains [[experience]].
 
-Each class funtions differently, leveraging different systems to create a variety of effects. Some classes are martial, focusing on being in the front, while others focus on magic, or a combo of the two.
+Each class functions differently, leveraging different systems to create a variety of effects. Some classes are martial, focusing on being in the front, while others focus on magic, or a combo of the two.
 ## Multiclassing
 Players may opt to spend their experience to multiclass. When multi-classing, different classes will give different bonuses to shared features such as [[Player Characters#Saves|saves]], in such cases, take the best from the classes the character has branched into. 
 ## Overview
@@ -57,9 +101,9 @@ Here's all the classes so far. Yes, I've taken the normal ones from 5e.
 # Creating a Character
 Here's a quick summary on how to build a character.
 ## Rolling Attributes
-For each attribute roll 3d6 and record the **values**. Then assign the values to the [[Player Characters#Attributes|attributes]] of your choosing.
+Start by rolling 3d6, then assign the value to any of your [[Player Characters#Attributes|attributes]]. Repeat the process until each attribute has a value.
 
-Each value has a corresponding **bonus** as per the table below. Record the bonuses, these are what you add to [[Rolling Dice#Tests|tests]].
+Each value has a corresponding **bonus** as per the table below. Record the bonuses, these are what you add to [[Mechanics#Tests|tests]].
 
 | Value | Bonus |
 | ----- | ----- |
@@ -74,6 +118,15 @@ Each value has a corresponding **bonus** as per the table below. Record the bonu
 | 18    | +4    |
 ## Class
 If starting at level one, this is where you pick a [[Player Characters#Classes|class]]. Grab the starting equipment and abilities of the class. If starting at level zero, don't.
+## Age
+Not all adventurers are young. Leaving your occupation and home behind might not come at a choice, and the allure of gold has no age restrictions to it. Either choose or roll on the below table for effects:
+
+| d6  | Age   | Trained Skills | Attributes                         |
+| --- | ----- | -------------- | ---------------------------------- |
+| 1-3 | Young | 6+2            | DEX & CON +1                       |
+| 4-5 | Adult | 6+4            | -                                  |
+| 6   | Old   | 6+6            | STR, DEX, and CON -2, INT & WIS +1 |
+*Six trained skills must be selected from your class, the rest maybe chosen freely. Skills cannot exceed six. Note that attributes cannot exceed 18, nor fall below 3.*
 ## Backgrounds
 Roll twice on the table below, recording the starting equipment. These are former careers, before your character turned towards being an adventurer.
 

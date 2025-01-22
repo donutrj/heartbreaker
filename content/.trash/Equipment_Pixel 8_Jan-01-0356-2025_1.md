@@ -3,7 +3,7 @@ The standard weapon is a melee two-handed thing that does 1d6 damage. Anyone can
 ## Qualities
 To represent different weapons, they can be modified with a variety of qualities. No weapon can do more than d12 damage, barring wizardry.
 
-If the damage die is easily divisible into smaller dice, you may opt to use the (sum? product? division result?) e.g. 1d8 -> 2d4, 1d12 --> 2d6 or 3d4. 
+If the damage die is easily divisible into smaller dice, you may opt to use the (sum? product? division result?) e.g. 1d8 -> 2d4, 1d12 --> 2d6 or 3d4.
 
 + **Martial:** Increment damage die by 1. Requires class proficiency
 + **Long:** Increment damage die by 1, cannot be used indoors

@@ -1,8 +1,8 @@
-This is a d20 system. Players make Tests and Saves by rolling a d20 to determine the outcomes of uncertainty.
+This is a d20 system. Players make Tests and Saves by rolling a d20 to determine the outomes of uncertainty.
 # Tests
 Players make tests by rolling a d20 adding the relevant [[Player Characters#Attributes|attribute]] bonus. If the test is made out of combat, they can add a [[Player Characters#Skills|skill]] bonus too.
 
-Players aim to meet or beat a target DC, which means the characters succeeds. 
+Players aim to meet or beat a target DC, which means the characters suceeds. 
 # Saves
 Characters make saves when something happens to them, attempting to roll over or equal to their save target. 
 # Advantage
@@ -28,7 +28,7 @@ To determine who goes first, each player rolls 1d20, adding their Dexterity to t
 
 Initiative is rolled at the beginning of each combat round.
 ## Actions
-On your turn, you can move, as per your [[Rolling Dice#Combat#Movement|movement]], and take one action. Common actions include:
+On your turn, you can move, as per your [[Rolling Dice#Combat#Movement|movement]], and take on action. Common actions include:
 + [[Rolling Dice#Combat#Attacking|Attacking]]: Using a melee or ranged weapon in an attempt to harm the opponent.
 + [[Rolling Dice#Combat#Combat Maneuvers|Combat Maneuvers]]: This could be grappling, shoving, pocket-sand, etc.
 + [[Wizards#Spellcasting|Spellcasting]]: Several classes have spell lists, and if prepared, the caster can attempt to use them as per their rules.
@@ -46,15 +46,15 @@ In the event that the rolls are tied, both parties roll for damage and armor.
 ### Ranged Attacks
 When attacking with a ranged weapon, the attacker rolls their attack, and the defender rolls a Reflex Save. If the attacker rolls better, they roll for damage and the defender rolls armor to reduce the damage.
 #### Shooting into a Crowd
-In the chaos of a melee, there is a risk of hitting an unintended target. Would there be occupied neighboring hexes, there is a 50% chance a random neighbor needs to make a Reflex save or be hit.
+In the chaos of a melee, there is a risk of hitting an unintended target. Would there be occupuied neighboring hexes, there is a 50% chance a random neighbor needs to make a Reflex save or be hit.
 ### Critical Hits
 In the event either party rolls a [[Rolling Dice#Criticals|critical success]], they automatically are considered the winner and roll twice as many dice for damage. If both parties crits, each does the extra damage to each other.
 
 If a player rolls a natural 1, it means their weapon has become [[Effects and Conditions#Damaged Equipement|damaged]]. They can attempt to repair it themselves in downtime with a DC12 (16 if [[Equipment#Qualities|complex|]]) Int + Coo Test. If they fail it'll require visiting a professional.
 
-If a damaged weapon rolls another critical failure it is permanently broken.
+If a damaged weapon rolls another critical failure it is permantly broken.
 ### Recovering Ammo
-When sensible, ammo is recoverable with a 5+ on 1d6. Roll for each.
+Ammo is recoverable with a 5+ on 1d6. Roll for each.
 ## Combat Maneuvers
 Combat maneuvers are a loose category of all the other crap you can do in a fight. This includes restraining, shoving, disarming, throwing sand in the eyes of a wizard etc. By necessity, the guidelines are loose.
 
@@ -76,7 +76,7 @@ Being based on hexes, flanking, ganging up, and cover are all important.
 ### Flanking
 If enemies occupy opposite hexes of a character, both gain advantage to their attacks. That character (or enemy ideally) is considered flanked
 ### Overrun
-If enemies occupy four or more adjacent hexes, the character is considered overrun. Attacks against an overrun character have advantage. Characters can be both flanked and overrun.
+If enemies occupy four or more adjacent hexes, the character is considered overrun. Attacks against an overrun character have advantage.
 ### Cover
 There are two types of cover:
 + **Soft cover** such as heavy smoke, shrubs, hanging clothes, etc. grant the character advantage on Reflex Saves.

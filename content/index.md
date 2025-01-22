@@ -9,8 +9,8 @@ As it stands right now I've got the 5e classes that I care about in roughly work
 
 ----
 
-Learn how to fight [[Rolling Dice#Combat|here]].  
+Learn how to fight [[Mechanics#Combat|here]].  
 
-Learn about the core mechanics [[Rolling Dice|here]].
+Learn about the core mechanics [[Mechanics|here]].
 
 Learn about player characters [[Player Characters|here]].

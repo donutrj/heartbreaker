@@ -29,7 +29,7 @@ Other famous fighters develop their own techniques and might be willing to teach
 11. **Miracolo's Sweep:** If an attack's result beats the AC of a creature adjacent to struck target, hit them for normal damage.
 12. **Trip de Joie:** Struck target saves or falls prone.
 ## One Step Ahead
-Whenever the sum of your attack roll is equal to or greater than 20, perform a free [[Rolling Dice#Combat#Combat Maneuvers|combat maneuver]].
+Whenever the sum of your attack roll is equal to or greater than 20, and deal damage, you may make another action.
 _________________ 
 # Fighter Advancement
 | Level | Ability Scores      | Attack Bonus | Saving Throws | Skills         |
