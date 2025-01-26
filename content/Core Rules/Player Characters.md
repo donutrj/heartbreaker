@@ -13,7 +13,9 @@ Skills are used in conjunction with attributes when making [[Mechanics#Tests|tes
 ### Acrobatics (DEX)
 When jumping, climbing, balancing or performing a similar physical action, roll for this skill.
 ### Awareness (WIS)
-As an adventurer you must always be on your guard, or you won’t live long. You use your awareness skill to watch or listen for anyone sneaking around nearby (opposed roll, see sneaking below). The GM can also let Groups: If multiple player characters are in the same place, each of you makes a separate awareness roll. You cannot help (page 32) each other.
+As an adventurer you must always be on your guard, or you won’t live long. You use your awareness skill to watch or listen for anyone sneaking around nearby (opposed roll, see sneaking below).
+
+Groups: If multiple player characters are in the same place, each of you makes a separate awareness roll. You cannot help each other.
 ### Bartering (CHA)
 When haggling over the price of something you are buying or selling, roll for bartering. If you succeed, the price goes down or up by 20%.
 ### Beast Lore (INT)
@@ -42,6 +44,8 @@ Life as an adventurer is dangerous, but you can often reach your goals without v
 If what you are asking for requires the NPC to sacrifice or risk something important, the roll is more difficult – it becomes an opposed roll between your persuasion and the other person’s WIL. But even in this case your request must be reasonable – no NPC will agree to just anything or act entirely against their own interests, no matter how successful the roll. The GM has the final say.
 ### Riding (DEX)
 To get up on a horse and ride slowly doesn’t require a skill roll, for but for more advanced maneuvers you need to roll for riding. Special rules apply [[Combat#Mounted Combat|in combat]].
+### Scrutiny (WIS)
+Sometimes the truth of the matter is written on one's face, other times it is clearly absent from an expression. Use this to ascertain intention and assess whether you're being told a lie.
 ### Seamanship (INT)
 Anyone can row a boat or paddle a canoe slowly, but in more challenging situations you need to roll for seamanship to steer a vessel over water. This skill can also be used for navigation.
 ### Sleight of Hand (DEX)
@@ -123,10 +127,12 @@ Not all adventurers are young. Leaving your occupation and home behind might not
 
 | d6  | Age   | Trained Skills | Attributes                         |
 | --- | ----- | -------------- | ---------------------------------- |
-| 1-3 | Young | 6+2            | DEX & CON +1                       |
-| 4-5 | Adult | 6+4            | -                                  |
-| 6   | Old   | 6+6            | STR, DEX, and CON -2, INT & WIS +1 |
-*Six trained skills must be selected from your class, the rest maybe chosen freely. Skills cannot exceed six. Note that attributes cannot exceed 18, nor fall below 3.*
+| 1-3 | Young | 4+2            | DEX & CON +1                       |
+| 4-5 | Adult | 4+4            | -                                  |
+| 6   | Old   | 4+6            | STR, DEX, and CON -2, INT & WIS +1 |
+*Four trained skills must be selected from your class, the rest may be chosen freely. You cannot start with more than two in any given skill.*
+
+*Skills cannot exceed six. Attributes cannot exceed 18, nor fall below 3.*
 ## Backgrounds
 Roll twice on the table below, recording the starting equipment. These are former careers, before your character turned towards being an adventurer.
 
